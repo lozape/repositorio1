@@ -1,3 +1,5 @@
+
+
 <<<<<<< HEAD
 # repositorio1
 GIT
@@ -38,3 +40,6 @@ Y poner [enlaces](http://gregoriofer.com)
 Tienes que hacer `System.out.println("Hello")`
 
 en tu primer código de Java.
+
+## Probando código2
+Tienes que hacer `System.out.println("Bye")`
